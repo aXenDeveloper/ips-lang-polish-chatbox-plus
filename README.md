@@ -1,4 +1,4 @@
-# Polish translation app - (BIM) Chatbox+
+# (BIM) Chatbox+ - Polish translation
 
 ## 📖 Table of contents
 - [🏷️ Requirements](#requirements)
