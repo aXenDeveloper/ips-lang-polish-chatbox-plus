@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <language name="Polski (PL)" rtl="0">
- <app key="chatbox" version="25002">
+ <app key="chatbox" version="25005">
   <word key="__app_chatbox" js="0">Chatbox+</word>
   <word key="menu__chatbox_chatbox" js="0">Chatbox+</word>
   <word key="menu__chatbox_chatbox_settings" js="0">Ustawienia</word>
@@ -99,7 +99,6 @@
   <word key="chatbox_use_editor" js="0">Metoda wprowadzania</word>
   <word key="chatbox_use_clean_text" js="0">Czysty tekst (zalecane)</word>
   <word key="chatbox_use_ckeditor" js="0">CKEditor</word>
-  <word key="chatbox_error_nogiphy" js="0"><![CDATA[Upewnij się, że zainstalowałeś <a href='https://invisioncommunity.com/files/file/8861-bim42-giphy/' target=_blank><b>wtyczkę GIPHY</b></a>]]></word>
   <word key="chatbox_announcement" js="0">Ogłoszenie</word>
   <word key="chatbox_error_no_perm_ann" js="0">Nie masz uprawnień do aktualizacji ogłoszenia</word>
   <word key="chatbox_updated_announcement" js="0">Zaktualizowano ogłoszenie.</word>
@@ -198,7 +197,6 @@
   <word key="chatbox_bar_room" js="0">Pokazać pokoje?</word>
   <word key="chatbox_bar_room_desc" js="0">Pokoje chatu będą wyświetlane na dole strony, aby umożliwić użytkownikom rozmowę w dowolnym miejscu</word>
   <word key="chatbox_view_msg" js="0">Wyświetl wiadomość</word>
-  <word key="chatbox_report" js="0">Zgłoś</word>
   <word key="chatbox_confirmDelete" js="0">Czy na pewno chcesz usunąć tą wiadomość?</word>
   <word key="chatbox_bar_mini_devices_desc" js="0">Wyskakujące okienka zostaną zminimalizowane podczas zmiany strony. Wyłącz opcję, aby umożliwić użytkownikom zminimalizowanie lub zmaksymalizowanie wyskakującego okienka z plikiem cookie, aby zapamiętać swój wybór.</word>
   <word key="block_roomsWidget" js="0">Lista pokoi</word>
@@ -208,6 +206,7 @@
   <word key="can_edit_chatbox_msg" js="0">Może edytować?</word>
   <word key="can_move_chatbox_msg" js="0">Może przenosić?</word>
   <word key="can_delete_chatbox_msg" js="0">Może usuwać?</word>
+  <word key="chatbox_report" js="0">Zgłoś</word>
   <word key="chatbox_report_desc" js="0"><![CDATA[Zintegrowany z IPS Report Center, aby umożliwić użytkownikowi zgłoszenie wpisu w pokoju. Możesz kontrolować, które grupy mogą zgłaszać zawartość w <a href='{internal.app=core&module=members&controller=groups}'>Ustawieniach grup</a>]]></word>
   <word key="chatbox_ntf_help" js="0"><![CDATA[<div class='ipsPad ipsMessage ipsMessage_info ipsSpacer_bottom'>Są to powiadomienia systemowe w pokojach lub klubach o nowych treściach z aplikacji innych firm (nowy temat, komentarz, recenzja, plik, wideo, ...)</div>]]></word>
   <word key="room_auto_msg_user" js="0">Użytkownik</word>
@@ -426,6 +425,14 @@
   <word key="chatbox_no_disconnect_desc" js="0">Nigdy nie wyświetlaj wyskakującego okienka z ostrzeżeniem o rozłączeniu, jeśli w witrynie występuje problem, który powoduje zerwanie żądań Ajax.</word>
   <word key="chatbox_idf_comment" js="0">komentarz</word>
   <word key="chatbox_idf_review" js="0">recenzja</word>
+  <word key="chatbox_noEmoji" js="0">Używaj tylko niestandardowych emoji </word>
+  <word key="chatbox_noEmoji_desc" js="0"><![CDATA[Możesz wysłać/usunąć niestandardowe emoji <a href='{internal.app=core&module=editor&controller=emoticons&tab=custom}'>tutaj</a>]]></word>
+  <word key="chatbox_tab_advanced" js="0">Zaawansowane</word>
+  <word key="chatbox_upload_file_size" js="0">Maksymalny rozmiar wysyłanego pliku </word>
+  <word key="__indefart_chatbox_msg" js="0">Wiadomość na czacie</word>
+  <word key="chatbox_voice" js="0">Wiadomość głosowa</word>
+  <word key="chatbox_voice_info" js="0"><![CDATA[Umożliwia użytkownikom nagrywanie i wysyłanie wiadomości głosowych.<br><span class='ipsType_negative'>Upewnij się, że masz zainstalowane <a href='https://invisioncommunity.com/files/file/9766-voice-message-for-chatbox/' target=_blank><b><u>wtyczkę Voice Message</u></b></a></span> ]]></word>
+  <word key="cb_block_show_club" js="0">Pokazuj czat z klubów.</word>
   <word key="chatbox_error_empty" js="1">Co chcesz powiedzieć?</word>
   <word key="chatbox_soundEnabled" js="1">Włączone powiadomienie dźwiękowe.</word>
   <word key="chatbox_soundDisabled" js="1">Wyłączone powiadomienie dźwiękowe.</word>
@@ -486,9 +493,6 @@
   <word key="chatbox_on_silent" js="1">Po włączeniu cichego trybu nie będziesz otrzymywać powiadomienia dźwiękowego dla wyskakującego czatu.</word>
   <word key="chatbox_off_silent" js="1">Wyłączono tryb cichy.</word>
   <word key="chatbox_group_member" js="1">Użytkownicy</word>
-  <word key="chatbox_noEmoji" js="0">Używaj tylko niestandardowych emoji </word>
-  <word key="chatbox_noEmoji_desc" js="0"><![CDATA[Możesz wysłać/usunąć niestandardowe emoji <a href='{internal.app=core&module=editor&controller=emoticons&tab=custom}'>tutaj</a>]]></word>
-  <word key="chatbox_tab_advanced" js="0">Zaawansowane</word>
   <word key="chatbox_time_just_now" js="1">Właśnie teraz</word>
   <word key="chatbox_time_1_minute" js="1">1 minutę temu</word>
   <word key="chatbox_time_x_minutes" js="1">%d minut(y) temu</word>
@@ -500,6 +504,6 @@
   <word key="chatbox_time_x_months" js="1">%d miesięcy temu</word>
   <word key="chatbox_time_1_year" js="1">W ostatnim roku</word>
   <word key="chatbox_time_x_years" js="1">%d lat temu</word>
-  <word key="chatbox_upload_file_size" js="0">Maksymalny rozmiar wysyłanego pliku </word>
+  <word key="chatbox_error_nogiphy" js="0"><![CDATA[Upewnij się, że zainstalowałeś <a href='https://invisioncommunity.com/files/file/8861-bim42-giphy/' target=_blank><b>wtyczkę GIPHY</b></a>]]></word>
  </app>
 </language>
