@@ -3,7 +3,7 @@
 ## 🏷️ Requirements
 
 - [IPS Community Suite: 4.6 version](https://invisioncommunity.com/)
-- [Chatbox+ 2.5.2](https://invisioncommunity.com/files/file/9342-chatbox/)
+- [Chatbox+ 2.5.5](https://invisioncommunity.com/files/file/9342-chatbox/)
 
 ## 🧰 Install and update
 
