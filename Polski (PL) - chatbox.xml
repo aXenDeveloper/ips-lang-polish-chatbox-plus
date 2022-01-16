@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <language name="Polski (PL)" rtl="0">
- <app key="chatbox" version="25005">
+ <app key="chatbox" version="25007">
   <word key="__app_chatbox" js="0">Chatbox+</word>
   <word key="menu__chatbox_chatbox" js="0">Chatbox+</word>
   <word key="menu__chatbox_chatbox_settings" js="0">Ustawienia</word>
@@ -505,5 +505,10 @@
   <word key="chatbox_time_1_year" js="1">W ostatnim roku</word>
   <word key="chatbox_time_x_years" js="1">%d lat temu</word>
   <word key="chatbox_error_nogiphy" js="0"><![CDATA[Upewnij się, że zainstalowałeś <a href='https://invisioncommunity.com/files/file/8861-bim42-giphy/' target=_blank><b>wtyczkę GIPHY</b></a>]]></word>
+  <word key="chatbox_giphy_req" js="0"><![CDATA[Wymaga zainstalowanego pluginu <a href='https://invisioncommunity.com/files/file/8861-bim-giphy/' target=_blank><b>GIPHY</b> do przeglądania i wysyłania animowanych GIF/Stickers.</a> ]]></word>
+  <word key="chatbox_musicbox_req" js="0"><![CDATA[Wymaga zainstalowanego pluginu <a href='https://invisioncommunity.com/files/file/8071-musicbox/' target=_blank><b>Musicbox</b></a>, aby umożliwić wybranie i odtworzenie utworu z Musicbox. ]]></word>
+  <word key="chatbox_suff_mins" js="0">minuty</word>
+  <word key="chatbox_voice_req" js="0"><![CDATA[Wymaga zainstalowanego pluginu <a href='https://invisioncommunity.com/files/file/8861-bim-giphy/' target=_blank><b>Voice Message For Chatbox+ plugin</b>, aby umożliwić użytkownikom nagrywanie i wysyłanie wiadomości głosowych.</a> ]]></word>
+  <word key="chatbox_voice_on" js="0"><![CDATA[<a href='{internal.app=core&module=applications&controller=plugins&do=settings&id=}%s' data-ipsdialog>Kliknij<b> tutaj</b>, aby skonfigurować plugin</a> ]]></word>
  </app>
 </language>
