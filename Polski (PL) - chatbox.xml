@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <language name="Polski" rtl="0">
- <app key="chatbox" version="25009">
+ <app key="chatbox" version="25011">
   <word key="__app_chatbox" js="0">Chatbox+</word>
   <word key="menu__chatbox_chatbox" js="0">Chatbox+</word>
   <word key="menu__chatbox_chatbox_settings" js="0">Ustawienia</word>
@@ -513,6 +513,6 @@
   <word key="chatbox_voice_req" js="0"><![CDATA[Wymaga zainstalowanego pluginu <a href='https://invisioncommunity.com/files/file/8861-bim-giphy/' target=_blank><b>Voice Message For Chatbox+ plugin</b>, aby umożliwić użytkownikom nagrywanie i wysyłanie wiadomości głosowych.</a> ]]></word>
   <word key="chatbox_voice_on" js="0"><![CDATA[<a href='{internal.app=core&module=applications&controller=plugins&do=settings&id=}%s' data-ipsdialog>Kliknij<b> tutaj</b>, aby skonfigurować plugin</a> ]]></word>
   <word key="chatbox_block" js="0">Zablokuj tego użytkownika</word>
-  <word key="chatbox_sendBtn" js="0">Wyświetlać przycisk WYŚLIJ na komputerze</word>
+  <word key="chatbox_sendBtn" js="0">Wyświetl przycisk wyślij na komputerze</word>
  </app>
 </language>
