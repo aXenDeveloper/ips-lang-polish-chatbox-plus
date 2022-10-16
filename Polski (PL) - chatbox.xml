@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <language name="Polski" rtl="0">
- <app key="chatbox" version="26001">
+ <app key="chatbox" version="26008">
   <word key="__app_chatbox" js="0">Chatbox+</word>
   <word key="menu__chatbox_chatbox" js="0">Chatbox+</word>
   <word key="menu__chatbox_chatbox_settings" js="0">Ustawienia</word>
@@ -432,12 +432,29 @@
   <word key="chatbox_upload_file_size" js="0">Maksymalny rozmiar wysyłanego pliku </word>
   <word key="__indefart_chatbox_msg" js="0">Wiadomość na czacie</word>
   <word key="chatbox_voice" js="0">Wiadomość głosowa</word>
-  <word key="chatbox_voice_info" js="0"><![CDATA[Umożliwia użytkownikom nagrywanie i wysyłanie wiadomości głosowych.<br><span class='ipsType_negative'>Upewnij się, że masz zainstalowane <a href='https://invisioncommunity.com/files/file/9766-voice-message-for-chatbox/' target=_blank><b><u>wtyczkę Voice Message</u></b></a></span> ]]></word>
+  <word key="chatbox_voice_info" js="0"><![CDATA[Umożliwia użytkownikom nagrywanie i wysyłanie wiadomości głosowych.<br><span class='ipsType_negative'>Upewnij się, że masz zainstalowane <a href='https://invisioncommunity.com/files/file/9766-voice-message-for-chatbox/' target=_blank><b><u>wtyczkę Voice Message</u></b></a></span>]]></word>
   <word key="cb_block_show_club" js="0">Pokazuj czat z klubów.</word>
-  <word key="chatbox_voice_req" js="0"><![CDATA[Wymaga zainstalowanego pluginu <a href='https://invisioncommunity.com/files/file/8861-bim-giphy/' target=_blank><b>Voice Message For Chatbox+ plugin</b>, aby umożliwić użytkownikom nagrywanie i wysyłanie wiadomości głosowych.</a> ]]></word>
+  <word key="chatbox_voice_req" js="0"><![CDATA[Wymaga zainstalowanego pluginu <a href='https://invisioncommunity.com/files/file/8861-bim-giphy/' target=_blank><b>Voice Message For Chatbox+ plugin</b></a>, aby umożliwić użytkownikom nagrywanie i wysyłanie wiadomości głosowych. ]]></word>
   <word key="chatbox_voice_on" js="0"><![CDATA[<a href='{internal.app=core&module=applications&controller=plugins&do=settings&id=}%s' data-ipsdialog>Kliknij<b> tutaj</b>, aby skonfigurować plugin</a> ]]></word>
   <word key="chatbox_block" js="0">Zablokuj tego użytkownika</word>
   <word key="chatbox_sendBtn" js="0">Wyświetl przycisk wyślij na komputerze</word>
+  <word key="menu__chatbox_chatbox_logs" js="0">Logi usuniętych wpisów</word>
+  <word key="cb_log_moderator" js="0">Moderator</word>
+  <word key="cb_log_action" js="0">Działanie</word>
+  <word key="cb_log_obj_id" js="0">Pokój</word>
+  <word key="cb_log_content" js="0">Treść</word>
+  <word key="cb_log_date" js="0">Data logu</word>
+  <word key="cb_log_chatterID" js="0">Rozmówca</word>
+  <word key="cb_log_guestName" js="0">Nazwa gościa</word>
+  <word key="cb_log_chatDate" js="0">Data</word>
+  <word key="menu__chatbox_chatbox_logsConf" js="0">Ustawienia</word>
+  <word key="chatbox_logs_on" js="0">Włącz logi</word>
+  <word key="chatbox_logs_prune" js="0">Usuń logi</word>
+  <word key="chatbox_pruneLogs" js="0">Usuń logi</word>
+  <word key="chatbox_del_logs" js="0">Logi zostały usunięte</word>
+  <word key="chatbox_confirm_prune_logs" js="0">Czy na pewno chcesz USUNĄĆ wszystkie logi?</word>
+  <word key="__api_chatbox_rooms" js="0">Pokoje</word>
+  <word key="__api_chatbox_messages" js="0">Wiadomości</word>
   <word key="chatbox_error_empty" js="1">Co chcesz powiedzieć?</word>
   <word key="chatbox_soundEnabled" js="1">Włączone powiadomienie dźwiękowe.</word>
   <word key="chatbox_soundDisabled" js="1">Wyłączone powiadomienie dźwiękowe.</word>
@@ -509,10 +526,5 @@
   <word key="chatbox_time_x_months" js="1">%d miesięcy temu</word>
   <word key="chatbox_time_1_year" js="1">W ostatnim roku</word>
   <word key="chatbox_time_x_years" js="1">%d lat temu</word>
-  <word key="chatbox_giphy_desc" js="0"><![CDATA[Możesz łatwo znaleźć największą na świecie bibliotekę animowanych obrazów. Upewnij się, że zainstalowałeś <a href='https://invisioncommunity.com/files/file/8861-bim42-giphy/' target=_blank><b>wtyczkę GIPHY</b></a>.]]></word>
-  <word key="chatbox_musicbox_desc" js="0"><![CDATA[Pozwól administratorowi wybrać i odtworzyć utwór z Musicbox. Upewnij się, że zainstalowałeś <a href='https://invisioncommunity.com/files/file/8071-musicbox/' target=_blank><b>Musicbox</b></a>]]></word>
-  <word key="chatbox_error_nogiphy" js="0"><![CDATA[Upewnij się, że zainstalowałeś <a href='https://invisioncommunity.com/files/file/8861-bim42-giphy/' target=_blank><b>wtyczkę GIPHY</b></a>]]></word>
-  <word key="chatbox_time_moment_locale" js="0">Ustawienia regionalne czasu</word>
-  <word key="chatbox_time_moment_locale_desc" js="0">Automatyczna aktualizacja rozmytych znaczników czasu dla wiadomości w ciągu dnia (np. „4 minuty temu” lub „18 godzin temu”).</word>
  </app>
 </language>
