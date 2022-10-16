@@ -17,5 +17,6 @@
 
 - [invisionize.pl](https://forum.invisionize.pl/files/file/813-polish-translation-app-bim-chatbox/)
 - [1shot2kill.pl](https://1shot2kill.pl/topic/110345-spolszczenie-bim-chatbox-invision-community/)
+- [Pecetowicz.pl](https://www.pecetowicz.pl/topic/spolszczenie-aplikacji-chatbox-invision-commnity-107936/)
 
 _The resources from the links above are updated on an ongoing basis if the administration approves the file._
