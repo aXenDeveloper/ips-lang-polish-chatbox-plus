@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <language name="Polski" rtl="0">
- <app key="chatbox" version="27000">
+ <app key="chatbox" version="27003">
   <word key="__app_chatbox" js="0">Chatbox+</word>
   <word key="menu__chatbox_chatbox" js="0">Chatbox+</word>
   <word key="menu__chatbox_chatbox_settings" js="0">Ustawienia</word>
@@ -458,6 +458,9 @@
   <word key="chatbox_tools_others" js="0">Inne</word>
   <word key="chatbox_tools_clear_tasks" js="0">Wyczyść kolejkę zadań</word>
   <word key="chatbox_tools_clear_tasks_desc" js="0">Gdy zadania mają problemy, użyj tego narzędzia, aby je zatrzymać. </word>
+  <word key="chatbox_tabCount_rooms" js="0">Pokoje</word>
+  <word key="chatbox_tabCount_rooms_desc" js="0">Liczba użytkowników online w wybranych pokojach</word>
+  <word key="chatbox_tab_tabCount" js="0">Użytkownicy online w menu</word>
   <word key="chatbox_error_empty" js="1">Co chcesz powiedzieć?</word>
   <word key="chatbox_soundEnabled" js="1">Włączone powiadomienie dźwiękowe.</word>
   <word key="chatbox_soundDisabled" js="1">Wyłączone powiadomienie dźwiękowe.</word>
