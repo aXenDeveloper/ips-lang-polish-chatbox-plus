@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <language name="Polski" rtl="0">
- <app key="chatbox" version="27003">
+ <app key="chatbox" version="28003">
   <word key="__app_chatbox" js="0">Chatbox+</word>
   <word key="menu__chatbox_chatbox" js="0">Chatbox+</word>
   <word key="menu__chatbox_chatbox_settings" js="0">Ustawienia</word>
@@ -37,7 +37,7 @@
   <word key="chatbox_error_no_perm_chat" js="0">Nie masz uprawnień do czatu</word>
   <word key="chatbox_error_no_perm_view" js="0">Nie masz uprawnień do przeglądania</word>
   <word key="chatbox_error_empty_msg" js="0">Co chcesz powiedzieć?</word>
-  <word key="chatbox_error_badchars" js="0">Jest zbyt wiele znaków specjalnych!</word>
+  <word key="chatbox_error_badchars" js="0">Twoja wiadomość miała za dużo znaków specjalnych.</word>
   <word key="chatbox_flood" js="0">Kontrola antyfloodowa</word>
   <word key="chatbox_flood_desc" js="0">Zapobiegaj wysyłaniu wiadomości w tym czasie (w sekundach). Administratorzy mogą ominąć kontrolę antyfloodową.</word>
   <word key="chatbox_error_flood" js="0">Piszesz zbyt szybko. Poczekaj %s sekund.</word>
@@ -111,15 +111,15 @@
   <word key="chatbox_error_no_perm_block" js="0">Nie masz uprawnień do blokowania rozmówców</word>
   <word key="room_blocked" js="0">Zablokowane rozmówcy</word>
   <word key="chatbox_error_in_blocked" js="0">Ten użytkownik jest już na liście zablokowanych.</word>
-  <word key="chatbox_blocked_done" js="0">%s został dodany do listy zablokowanych.</word>
+  <word key="chatbox_blocked_done" js="0">%s został(a) dodany do listy zablokowanych.</word>
   <word key="chatbox_no_blocked" js="0">Brak wyników do wyświetlenia.</word>
   <word key="chatbox_chatterGroup" js="0">Grupa</word>
   <word key="chatbox_chatterName" js="0">Nazwa</word>
-  <word key="chatbox_is_member" js="0">Zarejestrowany</word>
+  <word key="chatbox_is_member" js="0">Zarejestrowany(a)</word>
   <word key="chatbox_is_guest" js="0">Gość</word>
   <word key="chatbox_unblock" js="0">Odblokuj</word>
   <word key="chatbox_error_no_user" js="0">Brak ID użytkownika</word>
-  <word key="chatbox_kick_out" js="0">Zostałeś zablokowany w tym pokoju!</word>
+  <word key="chatbox_kick_out" js="0">Zostałeś zablokowany(a) w tym pokoju!</word>
   <word key="chatbox_accept_rules" js="0">Zaakceptuj i wejdź do pokoju czatu</word>
   <word key="chatbox_rules" js="0">Zasady czatu</word>
   <word key="room_show_rules" js="0">Pokaż zasady</word>
@@ -138,7 +138,7 @@
   <word key="room_clubs" js="0">Kluby</word>
   <word key="menu__chatbox_chatbox_clubs" js="0">Kluby</word>
   <word key="menu__chatbox_chatbox_notifications" js="0">Powiadomienia</word>
-  <word key="chatbox_sys_content" js="0">%s opublikował %s%s</word>
+  <word key="chatbox_sys_content" js="0">%s opublikował(a) %s%s</word>
   <word key="chatbox_sys_registration" js="0">Witaj %s w Naszej społeczności.</word>
   <word key="chatbox_sys_con_in" js="0">w</word>
   <word key="rooms" js="0">Pokoje</word>
@@ -146,10 +146,10 @@
   <word key="chatbox_queue_delete_msg" js="0">Usuwanie wiadomości z chatbox</word>
   <word key="menu__chatbox_notifications_header" js="0">Wyślij powiadomienie, gdy pojawi się nowa treść</word>
   <word key="chatbox_skin" js="0">Domyślny skin</word>
-  <word key="chatbox_sys_join" js="0">%s%s dołączył do pokoju!</word>
-  <word key="chatbox_sys_leave" js="0">%s%s opuścił pokój!</word>
+  <word key="chatbox_sys_join" js="0">%s%s dołączył(a) do pokoju!</word>
+  <word key="chatbox_sys_leave" js="0">%s%s opuścił(a) pokój!</word>
   <word key="chatbox_guest_name" js="0">[Gość]</word>
-  <word key="chatbox_online_on" js="0">Użytkownik dołączył / wyszedł</word>
+  <word key="chatbox_online_on" js="0">Użytkownik dołączył(a) / opuścił(a)</word>
   <word key="chatbox_send" js="0">Wyślij</word>
   <word key="chatbox_edit" js="0">Edytuj</word>
   <word key="perm__view" js="0">Edytuj</word>
@@ -222,7 +222,7 @@
   <word key="chatbox_error_no_file" js="0">Nie znaleziono pliku</word>
   <word key="chatbox_error_can_not_chat" js="0">Nie masz uprawnień do skorzystania z czatu.</word>
   <word key="chatbox_bar_expages" js="0">Nie pokazuj na stronach</word>
-  <word key="chatbox_bar_expages_desc" js="0"><![CDATA[Każdy adres URL w wierszu.<br>Znak <b>*</b> może być użyty jako znak wieloznaczny w wartości strony. Na przykład, aby włączyć lub wyłączyć wyskakujące okienko na każdym temacie forum: http://twojastrona.pl/topic/*]]></word>
+  <word key="chatbox_bar_expages_desc" js="0"><![CDATA[Każdy adres URL w wierszu.<br>Znak <b>*</b> może być użyty jako znak wieloznaczny w wartości strony. Na przykład, aby włączyć lub wyłączyć wyskakujące okienko na każdym temacie forum: https://Twojastrona.pl/topic/*]]></word>
   <word key="chatbox_change_room" js="0">Pokoje</word>
   <word key="chatbox_tab_con" js="0">Rozmowy</word>
   <word key="chatbox_bar_con" js="0">Włączyć czat użytkownika?</word>
@@ -251,7 +251,7 @@
   <word key="chatbox__update_placeholder" js="0">Wpisz tutaj swoją wiadomość...</word>
   <word key="chatbox_editor_upload" js="0">Czy może wysyłać załączniki?</word>
   <word key="chatbox_error_unknown" js="0">Nie możesz zrobić tej akcji!</word>
-  <word key="chatbox_del_con" js="0">Usuń tą rozmowę</word>
+  <word key="chatbox_del_con" js="0">Usuń tę rozmowę</word>
   <word key="chatbox_bar_show_rooms" js="0">Pokoje do wyświetlenia globalnie</word>
   <word key="devices_to_mini" js="0">Automatyczne minimalizowanie na urządzeniach</word>
   <word key="chatbox_bar_mini_devices" js="0">Automatyczne minimalizuj na urządzeniach</word>
@@ -289,9 +289,9 @@
   <word key="chatbox_block_unblock" js="0">Automatyczne odblokowanie po X minutach</word>
   <word key="chatbox_block_unblock_never" js="0">Nigdy</word>
   <word key="chatbox_block_del" js="0">Usuń wszystkie wiadomości</word>
-  <word key="chatbox_is_blocked" js="0">Zostałeś zablokowany w tym pokoju</word>
-  <word key="chatbox_auto_unblock_after" js="0">Zostanie odblokowany za %s</word>
-  <word key="chatbox_block_by" js="0">Zablokowany przez</word>
+  <word key="chatbox_is_blocked" js="0">Zostałeś zablokowany(a) w tym pokoju</word>
+  <word key="chatbox_auto_unblock_after" js="0">Zostanie odblokowany(a) za %s</word>
+  <word key="chatbox_block_by" js="0">Zablokowany(a) przez</word>
   <word key="chatbox_block_time" js="0">Czas</word>
   <word key="room_announcement_full" js="0">Wyświetl pełny tekst</word>
   <word key="room_announcement_full_desc" js="0">Wyświetl pełny tekst. Nie obsługuje globalnego czatu</word>
@@ -317,7 +317,7 @@
   <word key="chatbox_con_can_delete_con" js="0"><![CDATA[Kto może <b>USUNĄĆ</b> rozmowę?]]></word>
   <word key="chatbox_error_deleted_con" js="0">Ta rozmowa została usunięta przez jednego z uczestników</word>
   <word key="chatbox_tabCount" js="0">Liczba użytkowników online w menu</word>
-  <word key="chatbox_tabCount_desc" js="0">Badget w menu pokazujący, ilu użytkowników czatuje w pokojach.</word>
+  <word key="chatbox_tabCount_desc" js="0">Widget w menu pokazujący, ilu użytkowników czatuje w pokojach.</word>
   <word key="chatbox_no_counter_popup" js="0">Wyłącz licznik, gdy wyskakujące okienko jest otwarte</word>
   <word key="room_tab_style" js="0">Wygląd</word>
   <word key="room_can_bypass_flood" js="0">Kto może ominąć kontrolę antyfloodową?</word>
@@ -341,7 +341,7 @@
   <word key="room_nexus_donate_goal_desc" js="0"><![CDATA[<a href='{internal.app=nexus&module=payments&controller=donationgoals}'>Kliknij tutaj</a>, aby zarządzać celami dotacji.]]></word>
   <word key="chatbox_donate" js="0">Dotacje</word>
   <word key="chatbox_error_no_perm_donate" js="0">Ta funkcja nie jest dostępna na Twoim koncie.</word>
-  <word key="chatbox_sys_donation" js="0">%s przekazał dotację %s</word>
+  <word key="chatbox_sys_donation" js="0">%s przekazał(a) dotację %s</word>
   <word key="chatbox_superchat_background" js="0">Tło</word>
   <word key="chatbox_superchat_amount" js="0">Kwota</word>
   <word key="room_nexus_donate_superchat" js="0">Super czat</word>
@@ -361,7 +361,7 @@
   <word key="chatbox_error_no_perm_invite" js="0">Nie masz uprawnień do zapraszania osób do tej grupy!</word>
   <word key="chatbox_new_group_title" js="0">Czat grupowy</word>
   <word key="chatbox_group_title_more" js="0">%s, i %s więcej...</word>
-  <word key="cb_group_name" js="0">Nazwa twojej grupy</word>
+  <word key="cb_group_name" js="0">Nazwa Twojej grupy</word>
   <word key="cb_btn_create" js="0">Stwórz</word>
   <word key="cb_group_users" js="0">Wyszukaj osoby do dodania</word>
   <word key="chatbox_can_not_create_group" js="0">Nie można utworzyć nowej grupy. Maksymalna liczba użytkowników to %s</word>
@@ -374,7 +374,7 @@
   <word key="chatbox_clean_from" js="0">Starszy niż</word>
   <word key="chatbox_clean_days" js="0">Dni</word>
   <word key="chatbox_clean_from_desc" js="0">Spowoduje to usunięcie wiadomości opublikowanych dłużej niż X dni. Jeśli użyjesz 0, zostaną usunięte wszystkie wiadomości</word>
-  <word key="chatbox_invite_group" js="0">Dodaj członków</word>
+  <word key="chatbox_invite_group" js="0">Dodaj użytkowników</word>
   <word key="cb_btn_invite" js="0">Dodaj</word>
   <word key="chatbox_error_max_users_in_group" js="0">Maksymalna liczba użytkowników to %s</word>
   <word key="chatbox_group_users" js="0">Użytkownicy</word>
@@ -386,15 +386,15 @@
   <word key="room_tab_gchat" js="0">Czat grupowy</word>
   <word key="chatbox_con_g_max_users" js="0">Maksymalna liczba użytkowników na czacie grupowym</word>
   <word key="chatbox_rename_group" js="0">Zmień nazwę grupy</word>
-  <word key="chatbox_del_group" js="0">Usuń tą grupę</word>
+  <word key="chatbox_del_group" js="0">Usuń tę grupę</word>
   <word key="chatbox_error_no_perm_rename" js="0">Nie masz uprawnień do zmiany nazwy grupy.</word>
   <word key="cb_btn_rename" js="0">Zaktualizuj</word>
   <word key="cb_group_new_name" js="0">Wpisz nazwę grupy</word>
   <word key="chatbox_error_group_rename" js="0">Sprawdź nazwę</word>
-  <word key="chatbox_con_sys_rename" js="0">Grupa została nazwana %s.</word>
-  <word key="chatbox_con_sys_left" js="0">%s opuścił grupę.</word>
-  <word key="chatbox_con_sys_joined" js="0">%s dołączył do grupy.</word>
-  <word key="chatbox_con_sys_created" js="0">%s utworzył tą grupę.</word>
+  <word key="chatbox_con_sys_rename" js="0">Nazwa grupy to: %s</word>
+  <word key="chatbox_con_sys_left" js="0">%s opuścił(a) grupę.</word>
+  <word key="chatbox_con_sys_joined" js="0">%s dołączył(a) do grupy.</word>
+  <word key="chatbox_con_sys_created" js="0">%s utworzył(a) tę grupę.</word>
   <word key="chatbox_config_group" js="0">Opcje grupy</word>
   <word key="chatbox_error_no_perm_config" js="0">Nie masz uprawnień do zmiany ustawień.</word>
   <word key="cb_btn_conf" js="0">Zapisz</word>
@@ -413,7 +413,7 @@
   <word key="chatbox_header_adv" js="0">Zaawansowane opcje</word>
   <word key="chatbox_ignore_users" js="0">Ignorowani użytkownicy</word>
   <word key="chatbox_error_noperm" js="0">Nie masz uprawnień do wykonania tej czynności</word>
-  <word key="chatbox_error_ignored" js="0">Już zignorowałeś tego użytkownika.</word>
+  <word key="chatbox_error_ignored" js="0">Już zignorowałeś(aś) tego użytkownika.</word>
   <word key="chatbox_sys_bot" js="0">Opublikuj przez użytkownika</word>
   <word key="chatbox_sys_bot_desc" js="0">Wiadomości systemowe będą wysyłane przez tego użytkownika i wyświetlane jako zwykłe wiadomości z nazwą użytkownika, awatarem zamiast samej treści.</word>
   <word key="r__conversations" js="0">Rozmowy</word>
@@ -464,11 +464,11 @@
   <word key="chatbox_error_empty" js="1">Co chcesz powiedzieć?</word>
   <word key="chatbox_soundEnabled" js="1">Włączone powiadomienie dźwiękowe.</word>
   <word key="chatbox_soundDisabled" js="1">Wyłączone powiadomienie dźwiękowe.</word>
-  <word key="chatbox_disconnected" js="1">Zostałeś rozłączony</word>
+  <word key="chatbox_disconnected" js="1">Zostałeś(aś) rozłączony(a)</word>
   <word key="chatbox_reconnect" js="1">Ponowne połączenie</word>
   <word key="chatbox_connected" js="1">Chatbox został połączony.</word>
   <word key="chatbox_connecting" js="1">Łączenie...</word>
-  <word key="chatbox_can_not_connect" js="1">Nie możesz się połączyć! Może to być spowodowane problemami z serwerem. Spróbuj ponownie za kilka minut lub skontaktować się z administratorem.</word>
+  <word key="chatbox_can_not_connect" js="1">Nie możesz się połączyć! Może to być spowodowane problemami z serwerem. Spróbuj ponownie za kilka minut lub skontaktuj się z administratorem strony.</word>
   <word key="chatbox_save_name" js="1">Zaloguj się jako gość</word>
   <word key="chatbox_error_flood" js="1">Piszesz zbyt szybko. Poczekaj po {{time}} sekund(ach), aby kontynuować.</word>
   <word key="chatbox_error_open_flood" js="1">Ups! Jest zbyt wiele połączeń, poczekaj kilka sekund...</word>
@@ -491,7 +491,7 @@
   <word key="chatbox_blockedchatters" js="1">Zablokowano rozmówcę</word>
   <word key="chatbox_block" js="1">Blokada</word>
   <word key="chatbox_confirmBlock" js="1">Czy na pewno chcesz zablokować tego użytkownika?</word>
-  <word key="chatbox_isblocked" js="1">Zostałeś zablokowany w tym pokoju!</word>
+  <word key="chatbox_isblocked" js="1">Zostałeś zablokowany(a) w tym pokoju!</word>
   <word key="chatbox_guest_name" js="1">Gość</word>
   <word key="chatbox_input_pl" js="1">Wpisz tutaj swoją wiadomość...</word>
   <word key="chatbox_posting" js="1">Publikowanie wiadomości...</word>
@@ -511,9 +511,9 @@
   <word key="chatbox_is_anon" js="1">Anonimowe logowanie</word>
   <word key="chatbox_send_private" js="1">Czat</word>
   <word key="chatbox_create_group_title" js="1">Utwórz grupę</word>
-  <word key="chatbox_leave_con_cfr" js="1">Czy na pewno chcesz opuścić tą grupę?</word>
+  <word key="chatbox_leave_con_cfr" js="1">Czy na pewno chcesz opuścić tę grupę?</word>
   <word key="chatbox_error_not_in_group" js="1">Nie ma Cię w tej grupie</word>
-  <word key="chatbox_you_left_group" js="1">Opuściłeś grupę!</word>
+  <word key="chatbox_you_left_group" js="1">Opuściłeś(aś) grupę!</word>
   <word key="chatbox_loadMoreBtn" js="1">Załaduj więcej</word>
   <word key="chatbox_no_older" js="1">Brak starszych wiadomości</word>
   <word key="chatbox_group_saved" js="1">Zapisane opcje grupy.</word>
@@ -532,5 +532,13 @@
   <word key="chatbox_time_x_months" js="1">%d miesięcy temu</word>
   <word key="chatbox_time_1_year" js="1">W ostatnim roku</word>
   <word key="chatbox_time_x_years" js="1">%d lat temu</word>
+  <word key="chatbox_notify_disable_club" js="0">Wyłącz powiadomienia z klubów</word>
+  <word key="chatbox_clean_roomID" js="0">ID pokoju</word>
+  <word key="chatbox_clean_roomID_desc" js="0">(użyj 0 dla wszystkich pokoi)</word>
+  <word key="chatbox_clean_days_desc" js="0">(użyj 0 dla wszystkich dni)</word>
+  <word key="chatbox_bar_pagetype" js="0">Typ strony</word>
+  <word key="chatbox_include" js="0">Uwzględnij tylko na określonych stronach</word>
+  <word key="chatbox_exclude" js="0">Wyklucz z określonych stron</word>
+  <word key="chatbox_header_bar_pagefilter" js="0">Filtr stron</word>
  </app>
 </language>
