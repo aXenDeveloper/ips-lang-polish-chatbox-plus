@@ -138,7 +138,7 @@
   <word key="room_clubs" js="0">Kluby</word>
   <word key="menu__chatbox_chatbox_clubs" js="0">Kluby</word>
   <word key="menu__chatbox_chatbox_notifications" js="0">Powiadomienia</word>
-  <word key="chatbox_sys_content" js="0">%s opublikował(a) %s%s</word>
+  <word key="chatbox_sys_content" js="0">%s opublikował(a) %s</word>
   <word key="chatbox_sys_registration" js="0">Witaj %s w Naszej społeczności.</word>
   <word key="chatbox_sys_con_in" js="0">w</word>
   <word key="rooms" js="0">Pokoje</word>
@@ -146,8 +146,8 @@
   <word key="chatbox_queue_delete_msg" js="0">Usuwanie wiadomości z chatbox</word>
   <word key="menu__chatbox_notifications_header" js="0">Wyślij powiadomienie, gdy pojawi się nowa treść</word>
   <word key="chatbox_skin" js="0">Domyślny skin</word>
-  <word key="chatbox_sys_join" js="0">%s%s dołączył(a) do pokoju!</word>
-  <word key="chatbox_sys_leave" js="0">%s%s opuścił(a) pokój!</word>
+  <word key="chatbox_sys_join" js="0">%s dołączył(a) do pokoju!</word>
+  <word key="chatbox_sys_leave" js="0">%s opuścił(a) pokój!</word>
   <word key="chatbox_guest_name" js="0">[Gość]</word>
   <word key="chatbox_online_on" js="0">Użytkownik dołączył(a) / opuścił(a)</word>
   <word key="chatbox_send" js="0">Wyślij</word>
