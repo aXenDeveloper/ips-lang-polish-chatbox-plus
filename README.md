@@ -3,7 +3,7 @@
 ## 🏷️ Requirements
 
 - [IPS Community Suite: 4.7 version](https://invisioncommunity.com/)
-- [Chatbox+ 2.8.3](https://ipsappzone.com/file/1-chatbox/)
+- [Chatbox+ 2.9.4](https://ipsappzone.com/file/1-chatbox/)
 
 ## 🧰 Install and update
 
@@ -16,7 +16,6 @@
 ## 🔌 Download from other sources:
 
 - [invisionize.pl](https://forum.invisionize.pl/files/file/813-polish-translation-app-bim-chatbox/)
-- [Katujemy.eu](https://katujemy.eu/topic/70491-spolszczenie-bim-chatbox-invision-community/)
 - [1shot2kill.pl](https://1shot2kill.pl/topic/110345-spolszczenie-bim-chatbox-invision-community/)
 - [Pecetowicz.pl](https://www.pecetowicz.pl/topic/spolszczenie-aplikacji-chatbox-invision-commnity-107936/)
 
