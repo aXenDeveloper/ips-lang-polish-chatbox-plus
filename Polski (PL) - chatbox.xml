@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <language name="Polski" rtl="0">
- <app key="chatbox" version="28003">
+ <app key="chatbox" version="29004">
   <word key="__app_chatbox" js="0">Chatbox+</word>
   <word key="menu__chatbox_chatbox" js="0">Chatbox+</word>
   <word key="menu__chatbox_chatbox_settings" js="0">Ustawienia</word>
@@ -222,7 +222,7 @@
   <word key="chatbox_error_no_file" js="0">Nie znaleziono pliku</word>
   <word key="chatbox_error_can_not_chat" js="0">Nie masz uprawnień do skorzystania z czatu.</word>
   <word key="chatbox_bar_expages" js="0">Nie pokazuj na stronach</word>
-  <word key="chatbox_bar_expages_desc" js="0"><![CDATA[Każdy adres URL w wierszu.<br>Znak <b>*</b> może być użyty jako znak wieloznaczny w wartości strony. Na przykład, aby włączyć lub wyłączyć wyskakujące okienko na każdym temacie forum: https://Twojastrona.pl/topic/*]]></word>
+  <word key="chatbox_bar_expages_desc" js="0"><![CDATA[Każdy adres URL w wierszu.<br>Znak <b>*</b> może być użyty jako znak wieloznaczny w wartości strony. Na przykład, aby włączyć lub wyłączyć wyskakujące okienko na każdym temacie forum: https://twojastrona.pl/topic/*]]></word>
   <word key="chatbox_change_room" js="0">Pokoje</word>
   <word key="chatbox_tab_con" js="0">Rozmowy</word>
   <word key="chatbox_bar_con" js="0">Włączyć czat użytkownika?</word>
@@ -491,7 +491,7 @@
   <word key="chatbox_blockedchatters" js="1">Zablokowano rozmówcę</word>
   <word key="chatbox_block" js="1">Blokada</word>
   <word key="chatbox_confirmBlock" js="1">Czy na pewno chcesz zablokować tego użytkownika?</word>
-  <word key="chatbox_isblocked" js="1">Zostałeś zablokowany(a) w tym pokoju!</word>
+  <word key="chatbox_isblocked" js="1">Zostałeś(aś) zablokowany(a) w tym pokoju!</word>
   <word key="chatbox_guest_name" js="1">Gość</word>
   <word key="chatbox_input_pl" js="1">Wpisz tutaj swoją wiadomość...</word>
   <word key="chatbox_posting" js="1">Publikowanie wiadomości...</word>
@@ -540,5 +540,20 @@
   <word key="chatbox_include" js="0">Uwzględnij tylko na określonych stronach</word>
   <word key="chatbox_exclude" js="0">Wyklucz z określonych stron</word>
   <word key="chatbox_header_bar_pagefilter" js="0">Filtr stron</word>
+  <word key="chatbox_tab_auto_time" js="0">Automatyczny harmonogram</word>
+  <word key="room_autotime_on" js="0">Włączyć automatyczny harmonogram?</word>
+  <word key="room_autotime_on_desc" js="0">Ustaw godziny w ciągu dnia, w których chcesz otworzyć i zamknąć pokój</word>
+  <word key="room_autotime_tz" js="0">Strefa czasowa</word>
+  <word key="room_autotime_open" js="0">Godzina otwarcia</word>
+  <word key="room_autotime_open_desc" js="0">Używając formatu zegara 24-godzinnego</word>
+  <word key="room_autotime_close" js="0">Godzina zamknięcia</word>
+  <word key="room_autotime_close_desc" js="0">Używając formatu zegara 24-godzinnego</word>
+  <word key="chatbox_room_is_closed" js="0">Ten pokój jest aktualnie zamknięty. Godziny otwarcia to od %s do %s</word>
+  <word key="chatbox_idletimeout" js="0">Automatyczny tryb AFK</word>
+  <word key="chatbox_idletimeout_desc" js="0">Automatycznie ustawiaj użytkowników jako AFK po określonym czasie (w minutach), aby zmniejszyć zużycie przepustowości. Użyj 0, aby wyłączyć tę funkcję.</word>
+  <word key="chatbox_isClosed" js="1">Ten pokój jest zamknięty</word>
+  <word key="chatbox_user_idle" js="1">Wygląda na to, że byłeś(aś) AFK przez jakąś chwilę. Czy chcesz się połączyć ponownie?</word>
+  <word key="chatbox_bar_bottom" js="0">Dolny odstęp na urządzeniach mobilnych</word>
+  <word key="chatbox_bar_bottom_desc" js="0">Użyj tej opcji, jeśli Twój motyw ma nawigację mobilną umieszczoną na dole. Opcja ta podniesie Globalny Chat o określoną odległość, aby uniknąć nakładania się na nawigację mobilną.</word>
  </app>
 </language>
